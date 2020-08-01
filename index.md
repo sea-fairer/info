@@ -32,7 +32,7 @@ Oakland policy
 
 Advice resources
 - <a href="https://legalaidatwork.org/clinics-and-helplines/" target="_blank">Legal Aid at Work</a>
-- <a href="site" target="_blank">site</a>
-- <a href="site" target="_blank">site</a>
+- <a href="http://lawhelpca.org/" target="_blank">LawHelpCA</a>
+- <a href="http://www.calbar.ca.gov/Public/Need-Legal-Help/Free-Legal-Help" target="_blank">Free Legal Help in California</a>
 
 <!--   - <a href="site" target="_blank">site</a>   -->
