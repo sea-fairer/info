@@ -1,16 +1,16 @@
 Oakland info
-- [General COVID worker info](https://www.oaklandca.gov/resources/coronavirus-2019-covid-19-business-and-worker-resources-1)
-- [Oakland COVID sick leave poster](https://www.oaklandca.gov/documents/covid-19-coronavirus-disease-and-oaklands-sick-leave-law)
-- [City ordinance on COVID sick leave](https://www.oaklandca.gov/documents/emergency-paid-sick-leave-for-oakland-employees-during-the-novel-coronavirus-covid-19-pandemic-ordinance)
+- <a href="https://www.oaklandca.gov/resources/coronavirus-2019-covid-19-business-and-worker-resources-1" target="_blank">General COVID worker info</a>
+- <a href="https://www.oaklandca.gov/documents/covid-19-coronavirus-disease-and-oaklands-sick-leave-law" target="_blank">Oakland COVID sick leave poster</a>
+- <a href="https://www.oaklandca.gov/documents/emergency-paid-sick-leave-for-oakland-employees-during-the-novel-coronavirus-covid-19-pandemic-ordinance" target="_blank">City ordinance on COVID sick leave</a>
 
 
 California info
-- [General COVID worker info](https://www.dir.ca.gov/covid19/)
-- [Executive order N-51-20 covering COVID leave for food sector workers](https://www.gov.ca.gov/wp-content/uploads/2020/04/4.16.20-EO-N-51-20-text.pdf)
-- [Definitions of overtime, regular rate of pay, bonuses](https://www.dir.ca.gov/dlse/FAQ_Overtime.htm)
-- [DLSE Policies and Interpretations Manual -- guidelines for interpreting labor policy](https://www.dir.ca.gov/dlse/Manual-Instructions.htm)
-- [How to file a wage claim](https://www.dir.ca.gov/dlse/HowToFileWageClaim.htm)
-- [Protections against employer retaliation](https://www.dir.ca.gov/dlse/HowToFileLinkCodeSections.htm)
+- <a href="https://www.dir.ca.gov/covid19/" target="_blank">General COVID worker info</a>
+- <a href="https://www.gov.ca.gov/wp-content/uploads/2020/04/4.16.20-EO-N-51-20-text.pdf" target="_blank">Executive order N-51-20 covering COVID leave for food sector workers</a>
+- <a href="https://www.dir.ca.gov/dlse/FAQ_Overtime.htm" target="_blank">Definitions of overtime, regular rate of pay, bonuses</a>
+- <a href="https://www.dir.ca.gov/dlse/Manual-Instructions.htm" target="_blank">DLSE Policies and Interpretations Manual -- guidelines for interpreting labor policy</a>
+- <a href="https://www.dir.ca.gov/dlse/HowToFileWageClaim.htm" target="_blank">How to file a wage claim</a>
+- <a href="https://www.dir.ca.gov/dlse/HowToFileLinkCodeSections.htm" target="_blank">Protections against employer retaliation</a>
 
 
 Federal info
