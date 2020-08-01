@@ -27,7 +27,7 @@
 
 ## California case law
 - <a href="https://cases.justia.com/california/supreme-court/2018-s232607.pdf?ts=1520272907" target="_blank">Alvarado v. Dart Container Corporation of California (2018)</a>
- - Abstract: "In this case, we decide how an employee’s overtime pay rate should be calculated when the employee has earned a flat sum bonus during a single pay period. Specifically, we consider whether the _divisor_ for purposes of calculating the per-hour value of the bonus should be (1) the number of hours the employee actually worked during the pay period, _including overtime hours_; (2) the number of _nonovertime_ hours the employee worked during the pay period; or (3) the number of nonovertime hours that exist in the pay period, regardless of the number of hours the employee actually worked.  We conclude that the divisor should be the second of these options."
+  - Abstract: "In this case, we decide how an employee’s overtime pay rate should be calculated when the employee has earned a flat sum bonus during a single pay period. Specifically, we consider whether the _divisor_ for purposes of calculating the per-hour value of the bonus should be (1) the number of hours the employee actually worked during the pay period, _including overtime hours_; (2) the number of _nonovertime_ hours the employee worked during the pay period; or (3) the number of nonovertime hours that exist in the pay period, regardless of the number of hours the employee actually worked.  We conclude that the divisor should be the second of these options."
 
 
 ## Oakland policy
