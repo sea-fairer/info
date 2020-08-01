@@ -14,4 +14,4 @@ California info
 
 
 Federal info
-- [COVID safety info for grocery workers](https://dir.ca.gov/dosh/coronavirus/Health-Care-General-Industry.html#grocery)
+- <a href="https://dir.ca.gov/dosh/coronavirus/Health-Care-General-Industry.html#grocery" target="_blank">COVID safety info for grocery workers</a>
