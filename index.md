@@ -1,4 +1,4 @@
-Federal labor policy
+## Federal labor policy
 - Notes
   * The California <a href="https://www.dir.ca.gov/dlse/DLSEManual/dlse_enfcmanual.pdf" target="_blank">DLSE Policies and Interpretations Manual (section 49.1.2)</a> uses the federal Fair Labor Standards Act (FLSA) for the definition of "regular rate of pay."
   * Overtime in California is anything over 8 hours/day or 40 hours/week, which is more favorable than the federal overtime standard.
@@ -10,7 +10,7 @@ Federal labor policy
 - <a href="https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation" target="_blank">Fact Sheet # 77A: Prohibiting Retaliation Under the FLSA</a>
   
   
-California policy
+## California policy
 - <a href="https://www.dir.ca.gov/dlse/Comparison-COVID-19-Paid-Leave.html" target="_blank">Side by Side Comparison of COVID-19 Paid Leave</a>
 - <a href="https://www.dir.ca.gov/dlse/FAQ-for-PSL.html" target="_blank">FAQs on Executive Order Concerning Supplemental Paid Sick Leave for Food Sector Workers</a>
 - <a href="https://www.dir.ca.gov/dlse/COVID-19-Food-Sector-Workers-poster.pdf" target="_blank">California food sector worker COVID sick leave poster</a>
@@ -24,13 +24,18 @@ California policy
 - <a href="https://www.dir.ca.gov/dlse/HowToFileLinkCodeSections.htm" target="_blank">Protections against employer retaliation</a>
 
 
-Oakland policy
+## California case law
+- <a href="https://cases.justia.com/california/supreme-court/2018-s232607.pdf?ts=1520272907" target="_blank">Alvarado v. Dart Container Corporation of California (2018)</a>
+ - Abstract: "In this case, we decide how an employee’s overtime pay rate should be calculated when the employee has earned a flat sum bonus during a single pay period. Specifically, we consider whether the _divisor_ for purposes of calculating the per-hour value of the bonus should be (1) the number of hours the employee actually worked during the pay period, _including overtime hours_; (2) the number of _nonovertime_ hours the employee worked during the pay period; or (3) the number of nonovertime hours that exist in the pay period, regardless of the number of hours the employee actually worked.  We conclude that the divisor should be the second of these options."
+
+
+## Oakland policy
 - <a href="https://www.oaklandca.gov/resources/coronavirus-2019-covid-19-business-and-worker-resources-1" target="_blank">General COVID worker info</a>
 - <a href="https://www.oaklandca.gov/documents/covid-19-coronavirus-disease-and-oaklands-sick-leave-law" target="_blank">Oakland COVID sick leave poster</a>
 - <a href="https://www.oaklandca.gov/documents/emergency-paid-sick-leave-for-oakland-employees-during-the-novel-coronavirus-covid-19-pandemic-ordinance" target="_blank">City ordinance on COVID sick leave (full text)</a>
 
 
-Advice resources
+## Advice resources
 - <a href="https://legalaidatwork.org/clinics-and-helplines/" target="_blank">Legal Aid at Work</a>
 - <a href="http://lawhelpca.org/" target="_blank">LawHelpCA</a>
 - <a href="http://www.calbar.ca.gov/Public/Need-Legal-Help/Free-Legal-Help" target="_blank">Free Legal Help in California</a>
