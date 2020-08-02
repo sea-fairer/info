@@ -5,7 +5,7 @@
 - <a href="https://www.dol.gov/agencies/whd/fact-sheets/56a-regular-rate" target="_blank">Fact Sheet #56A: Overview of the Regular Rate of Pay Under the FLSA</a>
 - <a href="https://www.dol.gov/agencies/whd/fact-sheets/56c-bonuses" target="_blank">Fact Sheet #56C: Bonuses under the FLSA</a>
 - <a href="https://www.dol.gov/agencies/whd/field-operations-handbook/Chapter-32#B32b01" target="_blank">US Dept. of Labor Field Operations Handbook 32b01: Computation of regular rate of pay for hourly employees</a>
-- <a href="https://www.shrm.org/resourcesandtools/hr-topics/compensation/pages/year-end-bonus-taxes.aspx" target="_blank">Society for Human Resource Management article on bonuses and overtime</a>
+- <a href="https://www.shrm.org/resourcesandtools/hr-topics/compensation/pages/year-end-bonus-taxes.aspx" target="_blank">Society for Human Resource Management article on bonuses and overtime</a> 
 - <a href="https://www.dol.gov/agencies/whd/compliance-assistance/handy-reference-guide-flsa" target="_blank">Handy Reference Guide to the FLSA</a>
 - <a href="https://dir.ca.gov/dosh/coronavirus/Health-Care-General-Industry.html#grocery" target="_blank">COVID safety info for grocery workers</a>
 - <a href="https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation" target="_blank">Fact Sheet # 77A: Prohibiting Retaliation Under the FLSA</a>
