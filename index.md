@@ -18,6 +18,7 @@
 - <a href="https://www.gov.ca.gov/wp-content/uploads/2020/04/4.16.20-EO-N-51-20-text.pdf" target="_blank">Executive order N-51-20 covering COVID leave for food sector workers (full text)</a>
 - <a href="https://www.dir.ca.gov/dwc/Covid-19/Index.html" target="_blank">Worker's Compensation and COVID: Q&A on Executive Order N-62-20</a>
 - <a href="https://www.dir.ca.gov/dlse/FAQ_Overtime.htm" target="_blank">Definitions of overtime, regular rate of pay, and bonuses</a>
+- <a href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4453&lawCode=LAB" target="_blank">How to calculate "average weekly earnings" for purposes of workers' compensation: Labor Code Section 4453, see subsection 4453.C</a>
 - <a href="https://www.dir.ca.gov/dlse/Manual-Instructions.htm" target="_blank">DLSE Policies and Interpretations Manual -- see section 49 for regular rate of pay</a>
 - <a href="https://www.dir.ca.gov/covid19/" target="_blank">General COVID worker info</a>
 - <a href="https://www.dir.ca.gov/Contactus.html#helpline_numbers" target="_blank">Free advice helpline phone numbers -- general line is (844) 522-6734</a>
