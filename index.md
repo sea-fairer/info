@@ -32,14 +32,16 @@
 - <a href="https://www.oaklandca.gov/documents/emergency-paid-sick-leave-for-oakland-employees-during-the-novel-coronavirus-covid-19-pandemic-ordinance" target="_blank">City ordinance on COVID sick leave (full text)</a>
 
 
-## Case law
-- <a href="https://supreme.justia.com/cases/federal/us/325/427/" target="_blank">Walling v. Harnischfeger Corp., 325 U.S. 427 (1945)</a>
-- <a href="https://cases.justia.com/california/supreme-court/2018-s232607.pdf?ts=1520272907" target="_blank">Alvarado v. Dart Container Corporation of California (2018)</a>
-
-
-## Advice resources
+## Legal advice and other resources
 - <a href="https://legalaidatwork.org/clinics-and-helplines/" target="_blank">Legal Aid at Work</a>
 - <a href="http://lawhelpca.org/" target="_blank">LawHelpCA</a>
 - <a href="http://www.calbar.ca.gov/Public/Need-Legal-Help/Free-Legal-Help" target="_blank">Free Legal Help in California</a>
+- <a href="https://covid-19.acgov.org/testing.page" target="_blank">COVID-19 testing sites in Alameda County</a>
+
+
+## Case law etc.
+- <a href="https://supreme.justia.com/cases/federal/us/325/427/" target="_blank">Walling v. Harnischfeger Corp., 325 U.S. 427 (1945)</a>
+- <a href="https://cases.justia.com/california/supreme-court/2018-s232607.pdf?ts=1520272907" target="_blank">Alvarado v. Dart Container Corporation of California (2018)</a>
+- <a href="https://investor.albertsonscompanies.com/Doc/Index?did=58616724" target="_blank">Albertsons 10-K filing, see p.18 for discussion of COVID-related "temporary increase in pay"</a>
 
 <!--   - <a href="site" target="_blank">site</a>   -->
